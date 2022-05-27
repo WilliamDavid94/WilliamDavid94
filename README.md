@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WilliamDavid94
-- 👀 I’m interested in  todo lo relacionado con programacion en .net html y  c#
-- 🌱 I’m currently learning  en desarrollo de paginas web
-- 💞️ I’m looking to collaborate on proyectos reales para darme inicio como desarrollador junior
+- 👀 Estoy interesado todo lo relacionado con programacion en .net html y  c#
+- 🌱 Me gusta el desarrollo de aplicaciones moviles y web a demas de la creacion de soluciones basicas a talleres 
+- 💞️ Me gustan los retos para darme inicio como desarrollador junior
 - 📫 Williamdavidariasamaya@gmail.com
 
 <!---
