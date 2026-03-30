@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @WilliamDavid94
-- 👀 Estoy interesado todo lo relacionado con programacion en .net html y  c#
-- 🌱 Me gusta el desarrollo de aplicaciones moviles y web a demas de la creacion de soluciones basicas a talleres 
-- 💞️ Me gustan los retos para darme inicio como desarrollador junior
-- 📫 Williamdavidariasamaya@gmail.com
+# 👋 Hola, soy William David Arias
 
-<!---
-WilliamDavid94/WilliamDavid94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudiante de Ingeniería de Sistemas (10° semestre)  
+💻 Desarrollador Android | Analista de Datos | Redes  
+
+## 🚀 Sobre mí
+Soy estudiante con experiencia en telecomunicaciones, desarrollo de software y análisis de datos. Me enfoco en crear soluciones prácticas usando tecnologías modernas.
+
+## 🛠️ Tecnologías
+- Kotlin | Java | C#  
+- SQL | Firebase  
+- Apache Spark | Hadoop  
+- Power BI | Excel avanzado  
+- Redes (fibra, cobre, satelital)  
+
+## 📱 Proyectos Destacados
+🔹 App Android Login con Firebase  
+🔹 Análisis de datos con Spark  
+🔹 Sistemas de redes y telecomunicaciones  
+
+## 📫 Contacto
+📧 Williamdavidariasamaya@gmail.com
+📱 3202727288
